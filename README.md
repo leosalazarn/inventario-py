@@ -11,6 +11,8 @@ Este proyecto consiste en el desarrollo de un sistema para el control de inventa
 
 ## 📂 Estructura del Proyecto
 
+![Diagrama de Clases](./recursos/diagrama-clases.png)
+
 El código está organizado siguiendo el principio de Responsabilidad Única (SRP) y una arquitectura limpia orientada al dominio:
 
 ```text
